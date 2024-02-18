@@ -35,7 +35,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# vscode
+.vscode
+
 # LockFiles
 yarn.lock
 package-lock.json
 pnpm-lock.yaml
+``` 
